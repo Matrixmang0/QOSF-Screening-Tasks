@@ -7,4 +7,4 @@ The notebooks in this repository were ran on IBM quantum lab, where all the nece
 
 But, there are few steps to be done before you run these notebooks on your local machine. Below, are the steps needed to be performed on your local machine before running the notebooks, to reproduce similar results.
 
-## Creating a python virtual environment
+## 1. Creating a python virtual environment
