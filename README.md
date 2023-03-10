@@ -17,7 +17,7 @@ Create a python3 hidden source folder
 ```
 python3 -m venv .virt-source
 ```
-Change the python source directory to the one we created in the previous step
+Change the python source directory to the one you created in the previous step
 ```
 source .virt-source/bin/activate
 ```
@@ -53,4 +53,6 @@ c.InlineBackend.figure_format = 'svg'
 
 Aaand that's it for now. You can go ahead and run your projects or the notebooks from this github repo inside this repository.
 
-What stoppin you, go ahead and have funn !
+What's stoppin you, go ahead and have funn !
+
+[References](https://qiskit.org/documentation/getting_started.html)
